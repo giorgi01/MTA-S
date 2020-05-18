@@ -1,0 +1,5 @@
+<meta>
+	<!-- Auto generated using VSCode MTA:SA Lua by Subtixx -->
+	<info author="Giorgi Tamarashvili" type="script" name="aclManager" version="0.1.0" />
+	<script src="s.lua" type="server" />
+</meta>
