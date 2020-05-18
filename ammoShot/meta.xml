@@ -1,0 +1,4 @@
+<meta>
+	<script src="script_c.lua" type="client" cache="false"/>
+	<config src="oneclick.ignore.xml" type="client" />
+</meta>
